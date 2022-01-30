@@ -4,9 +4,9 @@ RESOURCES_DIR = os.path.dirname(os.path.abspath(__file__))  # путь к рес
 
 # 1--------------------------------------------------- настройка телеграм клиента https://my.telegram.org/auth?to=apps
 
-TELEGRAM_API_ID = 2410254   # вставьте ваш API_ID
+TELEGRAM_API_ID = 0000000   # вставьте ваш API_ID
 
-TELEGRAM_API_HASH = 'be17b3e4e257581795e07f8c6ef9e817'  # вставьте ваш API_HASH
+TELEGRAM_API_HASH = ''  # вставьте ваш API_HASH
 
 TELEGRAM_BOT_NAME = "@GenerativeBeast2Bot"  # имя бота с поддержкой GPT-3
 
